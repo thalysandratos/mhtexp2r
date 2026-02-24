@@ -1,4 +1,7 @@
-# mhtexp2
+# mhtexp2r
+An attempt to port mhtexp2 from Stata to R.
+
+# mhtexp2 - Original README --The email address is not mine, but that of the original author
 Implements the procedure detailed in List, Shaikh, and Vayalinkal (2023) (pdf: http://individual.utoronto.ca/atom/files/mht2.pdf). 
 
 Please contact me (atom.vayalinkal@mail.utoronto.ca) with any questions/comments - thanks!
