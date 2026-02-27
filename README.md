@@ -1,6 +1,10 @@
 # mhtexp2r
 An attempt to port mhtexp2 from Stata to R.
 
+The port was assisted greatly by Claude Opus 4.5, Opus 4.6, Sonnet 4.6, ChatGPT 5.2 and ChatGPT 5.
+
+The code is provided as is without any guarantees. Use it, but you are responsible for what it does or does not do.
+
 # mhtexp2 - Original README --The email address is not mine, but that of the original author
 Implements the procedure detailed in List, Shaikh, and Vayalinkal (2023) (pdf: http://individual.utoronto.ca/atom/files/mht2.pdf). 
 
